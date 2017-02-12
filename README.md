@@ -1,1 +1,1 @@
-# interduction-to-algorithm
+# introduction-to-algorithm
