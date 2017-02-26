@@ -55,7 +55,7 @@ def min_heapsort(list,size):
 		size = size - 1
 		min_heapify(list,0, size)
 
-#============heap_extract_max====================
+#============heap_extract_max=================== =
 def heap_extract_max(list,size):
 	max = list[0]
 	list[0] = list[size]
